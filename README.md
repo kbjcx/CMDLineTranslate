@@ -7,4 +7,6 @@ sudo apt-get update
 sudo apt-get install libssl-dev libcurl4-openssl-dev
 ```
 # Usage
+```bash
+trans [-z(target language)] SourceText
 ```
