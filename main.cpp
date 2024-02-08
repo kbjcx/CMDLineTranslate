@@ -127,8 +127,8 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    string SECRET_ID = "AKIDiWYh0OdcZbjiU6h0Q6h6ffgJwV4tjjcA";
-    string SECRET_KEY = "V3hGvUvMsMtlTzYGqEWtCLIMLE0dEjEf";
+    string SECRET_ID = "";
+    string SECRET_KEY = "";
     string TOKEN = "";
 
     string service = "tmt";
